@@ -5,3 +5,4 @@ Git track changes of files.
 This is new changes.
 Creating a new branch is quick.
 this is a penpile right?
+add merge
