@@ -6,4 +6,4 @@ This is new changes.
 Creating a new branch is quick.
 this is a penpile right?
 add merge
-this is changes more
+Git is a free software ...
