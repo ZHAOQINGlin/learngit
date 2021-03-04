@@ -7,9 +7,13 @@ Creating a new branch is quick.
 this is a penpile right?
 add merge
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Git is a free software ...
 =======
 this is changes more more more
 >>>>>>> Stashed changes
 
 add another one Fenzhi
+=======
+this is changes more more more
+>>>>>>> Stashed changes
