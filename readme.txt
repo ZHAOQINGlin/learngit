@@ -11,5 +11,6 @@ Git is a free software ...
 =======
 this is changes more more more
 >>>>>>> Stashed changes
-
+this is a bug and anny any bug
 add another one Fenzhi
+
